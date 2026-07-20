@@ -14,15 +14,19 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### 🛡️ Cyber Security & Web Pen-Testing
-*   **Web App Security:** Testing vulnerabilities, authentication bypass, and logic flaws.
-*   **API Pentesting:** Exploring endpoints, token manipulation, and request forgery.
-*   **OSINT & Recon:** Gathering intelligence and mapping attack surfaces.
+### 💻 Languages & Frameworks
+*   **Backend & Scripting:** Python (Requests, Asyncio, BeautifulSoup), Go (Golang), PHP, Bash Scripting.
+*   **Web & APIs:** JavaScript (Node.js), HTML5, CSS3, JSON, REST APIs.
+*   **Mobile Development:** Dart & Flutter Framework (For building cross-platform utility tools).
 
-### 💻 Development & Automation
-*   **Languages:** Python (Requests, BeautifulSoup, Asyncio), Bash Scripting.
-*   **Automation:** Building automated reward claimers, custom scrapers, and CLI tools.
-*   **Data Parsing:** Extracting specific data patterns from complex JSON/HTML responses.
+### 🛡️ Cyber Security & Web Pen-Testing
+*   **Web App Security:** Testing vulnerabilities (OWASP Top 10), authentication bypass, and logic flaws in PHP/JS apps.
+*   **API Pentesting:** Exploring endpoints, token manipulation, and request forgery.
+*   **OSINT & Recon:** Advanced intelligence gathering and mapping attack surfaces.
+
+### ⚙️ Automation & Tooling
+*   **Automation:** Building automated reward claimers, custom scrapers, and interactive CLI tools.
+*   **Data Parsing:** Advanced data manipulation and regex extraction from complex JSON/HTML responses.
 
 ---
 
@@ -42,6 +46,7 @@
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-ebn__elnegm1-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ebn_elnegm1)
 [![Telegram Profile](https://img.shields.io/badge/Telegram_Profile-@ebn__elnegm-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ebn_elnegm)
+[![Instagram](https://img.shields.io/badge/Instagram-Michael__Elnegm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Michael_Elnegm)
 
 </div>
 
