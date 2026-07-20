@@ -44,8 +44,8 @@
 
 <div align="center">
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-ebn__elnegm1-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElnegmDev)
-[![Telegram Profile](https://img.shields.io/badge/Telegram_Profile-@ebn__elnegm-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ebn_elnegm)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-ElnegmDev-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElnegmDev)
+[![Telegram Profile](https://img.shields.io/badge/Telegram_Profile-@MichaelElnegm-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ebn_elnegm)
 [![Instagram](https://img.shields.io/badge/Instagram-Michael__Elnegm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Michael_Elnegm)
 
 </div>
